@@ -1,8 +1,8 @@
-#Shopping App using Firebase
+# Shopping App using Firebase
 
 This project is a simple mobile shopping application built with React Native and Expo for the course Web- ja hybriditeknologiat mobiiliohjelmoinnissa. The application uses Firebase Firestore as a cloud database to store shopping list items. 
 
-##Features:
+## Features:
 - Add items to the shopping list
 - View list of items
 - Delete items from the list
@@ -11,7 +11,7 @@ This project is a simple mobile shopping application built with React Native and
 
 This application retrieves (onSnapshot()), adds (addDoc()) and deletes (deleteDoc()) data. 
 
-##Screenshots
+## Screenshots
 1. Shopping list HomeScreen: main view of the application.
 ![Shopping List Screen](image1.png)
 
