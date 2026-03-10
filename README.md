@@ -17,7 +17,9 @@ This application **retrieves (onSnapshot()), adds (addDoc()) and deletes (delete
 
 ## Screenshots
 1. Shopping list HomeScreen: main view of the application.
+
 ![Shopping List Screen](image1.png)
 
-3. Delete confirmation alert: it appears when tapping an item asking to confirm if the user wants to delete it.
+2. Delete confirmation alert: it appears when tapping an item asking to confirm if the user wants to delete it.
+
 ![Delete Alert](image2.png)
